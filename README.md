@@ -1,8 +1,6 @@
 # node-customers-app
-
-
-
 management app for customers
+
 
 ## Description
 
@@ -12,7 +10,6 @@ There are also handlers for checking details, delete,get all details and update 
 This app made by node.js
 
  
-
 
 ## How to use the Project
 npm i - install node modules wich is contains all node packages

@@ -1,5 +1,5 @@
 # node-customers-app
-management app for customers
+Management app for customers
 
 
 ## Description
